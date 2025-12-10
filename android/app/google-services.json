@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1081660599052",
+    "project_id": "instabuy-app-5bfcb",
+    "storage_bucket": "instabuy-app-5bfcb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081660599052:android:0ce96998a4b355f7aaf729",
+        "android_client_info": {
+          "package_name": "com.example.insta_buy_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp6YMXr1AQLvyEh4QCF4uwoa6p0ZvZXGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
